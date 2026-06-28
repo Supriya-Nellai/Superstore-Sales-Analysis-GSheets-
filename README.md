@@ -30,7 +30,8 @@ An end-to-end sales analysis of the Kaggle Superstore dataset using Google Sheet
 - Sales peak in Q4 (November–December)
 
 ## Dashboard Preview
-![Looker Studio Dashboard](dashboard/LookerStudio-Dashboard.pdf)
+![Looker Studio Dashboard](Dashboard/LookerStudio-Dashboard.pdf
+.pdf)
 
 ## Dataset
 The cleaned dataset with corrected date formats (DD/MM/YYYY) is available in the `Data/` folder.
