@@ -1,4 +1,4 @@
-# E-Commerce Sales Analysis — Google Sheets + Looker Studio
+# Superstore Sales Analysis — Google Sheets + Looker Studio
 
 ## Overview
 An end-to-end sales analysis of the Kaggle Superstore dataset using Google Sheets for data cleaning and analysis, and Looker Studio for interactive dashboard creation.
